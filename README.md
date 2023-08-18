@@ -1,5 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-<img src="https://github.com/Roychen651/Roychen651/blob/main/animate.gif?raw=true" alt="Project Logo" width="200", align = "right">
+<img align = "right" alt = "royAnimate" width = "400" src="https://github.com/Roychen651/Roychen651/blob/main/animate.gif?raw=true">
 
 ## About Me 🙋‍♂️
 
