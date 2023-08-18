@@ -1,5 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-<img src="Animate" alt="Project Logo" width="200">
+<img src="https://github.com/Roychen651/Roychen651/blob/main/animate.gif?raw=true" alt="Project Logo" width="200">
 ## About Me 🙋‍♂️
 
 A passionate person for tackling tech challenges and solving problems, with excellent interpersonal skills 👥.<br/>
