@@ -1,5 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-  <img src="https://github.com/Roychen651/Roychen651/raw/main/Roy%20chen%20animation.mp4" alt="Roy Animation" width="200">
+  <iframe src="https://giphy.com/embed/ECRJNVptDbmwQc3Vku" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ECRJNVptDbmwQc3Vku">via GIPHY</a></p>
 
 ## About Me 🙋‍♂️
 
