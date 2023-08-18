@@ -15,47 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Roy Chen]! 👋
 
-Passionate about coding, creating, and learning new things. Welcome to my GitHub profile! 🚀
+Passionate about coding, creating, and learning new things.<br/>
+Welcome to my GitHub profile! 🚀
 
 ## About Me 🙋‍♂️
 
-- 🌐 [Portfolio Website](https://www.yourwebsite.com)
-- 📝 [Blog](https://www.medium.com/@yourusername)
-- 📫 How to reach me: [Email](mailto:youremail@gmail.com)
+A passionate person for tackling tech challenges and solving problems, with excellent interpersonal skills 👥.<br/>
+I have the ability to learn independently and in a team 🧠. <br/>I'm proactive, adaptable, and always eager to contribute 🚀.<br/>
+I'm constantly learning and approach work with dedication 💡.<br/> Excited about taking on new challenges to further develop my skills in the field 🌟.<br/>
 
 ## Skills and Tools 🛠️
 
-- 💻 Languages: Python, JavaScript
+- 💻 Languages: Python, JavaScript, C, HTML5, CSS
 - 🛢️ Databases: MySQL, MongoDB
-- 📦 Frameworks: Flask, React
-- ☁️ Cloud: AWS, Azure
-- 🎨 UI/UX Design: Figma
-- 🛠️ Tools: Git, VS Code
+- 📦 Frameworks: Angular, React
+- ☁️ Cloud: FireBase
+- 🎨 UI/UX Design: Canva Specialist
+- 🛠️ Tools: Git, VS Code, Jupyter Notebook, Design Pattern & Diagrams
 
-## Projects 🚀
+##  🌱 I’m currently learning 
+I'm 3rd year Computer Science Student at HIT, Israel.
 
-### Project 1: [Project Name](https://github.com/yourusername/project1)
-Description of your project. What it does, technologies used, etc.
+## ⚡ Fun fact: 
+I'm eating burger 5 times A week 😂🍔
 
-![Project Screenshot](project1-screenshot.png)
-
-### Project 2: [Another Project](https://github.com/yourusername/project2)
-Brief overview of your second project. Features, technologies, etc.
-
-![Project Screenshot](project2-screenshot.png)
-
-## GitHub Stats 📊
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
 
 ## Connect with Me 🌐
 
 Let's connect and collaborate! Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&link=https://www.yourwebsite.com)](https://www.yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](www.linkedin.com/in/roychen651)
 
 
