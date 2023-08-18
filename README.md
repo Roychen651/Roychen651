@@ -1,6 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-  <img src="https://media0.giphy.com/media/ECRJNVptDbmwQc3Vku/giphy.gif">
-
+<img src="Animate" alt="Project Logo" width="200">
 ## About Me 🙋‍♂️
 
 A passionate person for tackling tech challenges and solving problems, with excellent interpersonal skills 👥.<br/>
