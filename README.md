@@ -1,5 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-  <img src="Roy chen animation.mp4" alt="Roy Animation" width="200">
+  <img src="https://github.com/Roychen651/Roychen651/raw/main/Roy%20chen%20animation.mp4" alt="Roy Animation" width="200">
 
 ## About Me 🙋‍♂️
 
