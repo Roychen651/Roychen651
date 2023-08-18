@@ -1,5 +1,5 @@
 # Hello, I'm Roy Chen! 👋
-  <img src="https://media0.giphy.com/media/ECRJNVptDbmwQc3Vku/giphy.gif", align = "right" , width = "200">
+  <img src="https://media0.giphy.com/media/ECRJNVptDbmwQc3Vku/giphy.gif">
 
 ## About Me 🙋‍♂️
 
