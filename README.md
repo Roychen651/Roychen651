@@ -4,7 +4,7 @@
 
 A passionate person for tackling tech challenges and solving problems, with excellent interpersonal skills 👥.<br/>
 I have the ability to learn independently and in a team 🧠. <br/>I'm proactive, adaptable, and always eager to contribute 🚀.<br/>
-I'm constantly learning and approach work with dedication 💡.<br/> Excited about taking on new challenges to further develop my skills in the field 🌟🚀.<br/>
+I'm constantly learning and approach work with dedication 💡.<br/> Excited about taking on new challenges to further develop my skills in the field 🌟.<br/>
 
 ## Skills and Tools 🛠️
 
