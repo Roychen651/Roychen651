@@ -20,7 +20,7 @@ I'm constantly learning and approach work with dedication 💡.<br/> Excited abo
 I'm 3rd year Computer Science Student at HIT, Israel.
 
 ## ⚡ Fun fact: 
-I'm eating burger 5 times A week 😂🍔
+I'm eating burger 3 times A week 😂🍔
 
 
 <h3 align="left">Languages and Tools:</h3>
