@@ -9,9 +9,9 @@ I'm constantly learning and approach work with dedication 💡.<br/> Excited abo
 
 ## Skills and Tools 🛠️
 
-- 💻 Languages: Python, JavaScript, C, HTML5, CSS
-- 🛢️ Databases: MySQL, MongoDB
-- 📦 Frameworks: Angular, React
+- 💻 Main Languages: Python, Java, JavaScript, C, Android
+- 🛢️ Databases: MySQL, MongoDB, IndexedDB
+- 📦 Frameworks/Web Design: Angular, React, CSS, Html/Html5
 - ☁️ Cloud: FireBase
 - 🎨 UI/UX Design: Canva Specialist
 - 🛠️ Tools: Git, VS Code, Jupyter Notebook, Design Pattern & Diagrams
@@ -20,7 +20,7 @@ I'm constantly learning and approach work with dedication 💡.<br/> Excited abo
 I'm 3rd year Computer Science Student at HIT, Israel.
 
 ## ⚡ Fun fact: 
-I'm eating burger 3 times A week 😂🍔
+I'm eating burger 3 times A week, and crazy about pizza 😂🍔🍕
 
 ## 📷 My hobby:
 I'm a landscape photographer, I can relax and thinking while I sit infront of the sunset and shot the sunset's silhouette 
