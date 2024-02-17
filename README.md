@@ -11,7 +11,7 @@ I'm constantly learning and approach work with dedication 💡.<br/> Excited abo
 
 - 💻 Main Languages: Python, Java, JavaScript, C, Android
 - 🛢️ Databases: MySQL, MongoDB, IndexedDB
-- 📦 Frameworks/Web Design: Angular, React, CSS, Html/Html5
+- 📦 Frameworks/Web Design: Node.js, React, CSS, Html/Html5
 - ☁️ Cloud: FireBase
 - 🎨 UI/UX Design: Canva Specialist
 - 🛠️ Tools: Git, VS Code, Jupyter Notebook, Design Pattern & Diagrams
