@@ -17,7 +17,7 @@ I'm constantly learning and approach work with dedication 💡.<br/> Excited abo
 - 🛠️ Tools: Git, VS Code, Jupyter Notebook, Design Pattern & Diagrams
 
 ##  🌱 I’m currently learning 
-I'm 3rd year Computer Science Student at HIT, Israel.
+I'm 3rd year Computer Science Student at H.I.T, Israel.
 
 ## ⚡ Fun fact: 
 I'm eating burger 3 times A week, and crazy about pizza 😂🍔🍕
